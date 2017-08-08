@@ -1,5 +1,5 @@
 public class action_controller_check {
-//github commit
+//github push
     public action_controller_check(){
         system.debug('in default constructor');
     }
